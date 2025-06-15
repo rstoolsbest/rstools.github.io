@@ -1,6 +1,6 @@
-  =>  Template Name    : RSTOOLS - Welding Website Template
+  =>  Template Name    : RSTOOLS - 
 
-  =>  Template Link    : https://htmlcodex.com/welding-website-template
+  =>  Template Link    : https://htmlcodex.com/TOOLS-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
